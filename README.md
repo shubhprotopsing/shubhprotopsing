@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubh Pratap Singh</h1>
+<h1 align="center">Hi 👋, I'm Shubh Pratap Singh!</h1>
 <h3 align="center">Web Developer who is funny. Stand-Up Comedian who can code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shughit@gmail.com**
 
-- ⚡ Fun fact **I am a part-time stand-Up comedian**
+- ⚡ Fun fact **I am a part-time Stand-Up Comedian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
