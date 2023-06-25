@@ -6,9 +6,8 @@
 
 - 💬 Ask me about **React, Strapi, TailwindCss**
 
-- 📫 How to reach me **shughit@gmail.com**
+- 📫 How to reach me **shubhpratapsingh_it20b11_23@dtu.ac.in**
 
-- ⚡ Fun fact **I am a part-time Stand-Up Comedian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
